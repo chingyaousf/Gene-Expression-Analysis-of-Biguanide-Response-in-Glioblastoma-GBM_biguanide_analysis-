@@ -1,0 +1,15 @@
+Status	/home/cyang40/chingyao/GBM_biguanide_analysis/bam_files/run0070_lane9_indexUDI0057-UDI0057=PDX22~human38_align.bam	/home/cyang40/chingyao/GBM_biguanide_analysis/bam_files/run0070_lane9_indexUDI0058-UDI0058=PDX43~human38_align.bam	/home/cyang40/chingyao/GBM_biguanide_analysis/bam_files/run0070_lane9_indexUDI0059-UDI0059=PDX59~human38_align.bam	/home/cyang40/chingyao/GBM_biguanide_analysis/bam_files/run0070_lane9_indexUDI0070-UDI0070=G83~human38_align.bam	/home/cyang40/chingyao/GBM_biguanide_analysis/bam_files/run0070_lane9_indexUDI0071-UDI0071=PDX10~human38_align.bam	/home/cyang40/chingyao/GBM_biguanide_analysis/bam_files/run0070_lane9_indexUDI0072-UDI0072=HK281~human38_align.bam
+Assigned	50896181	46395173	48048019	47296002	51478391	51532881
+Unassigned_Unmapped	2378685	16633075	3316749	6427870	3017516	2714826
+Unassigned_Read_Type	0	0	0	0	0	0
+Unassigned_Singleton	0	0	0	0	0	0
+Unassigned_MappingQuality	0	0	0	0	0	0
+Unassigned_Chimera	0	0	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0	0	0
+Unassigned_Duplicate	0	0	0	0	0	0
+Unassigned_MultiMapping	5626712	4763928	4498306	5116314	4510912	5160904
+Unassigned_Secondary	0	0	0	0	0	0
+Unassigned_NonSplit	0	0	0	0	0	0
+Unassigned_NoFeatures	4460773	3372130	3159241	3410994	4117143	2982223
+Unassigned_Overlapping_Length	0	0	0	0	0	0
+Unassigned_Ambiguity	2318667	2413067	2176585	2339373	2025870	2111938
