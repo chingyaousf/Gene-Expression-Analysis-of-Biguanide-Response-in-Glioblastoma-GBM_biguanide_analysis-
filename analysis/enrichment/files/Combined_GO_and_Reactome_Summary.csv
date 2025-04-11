@@ -1,0 +1,9 @@
+ID,Description,GeneRatio,FoldEnrichment,p.adjust,Count,geneID,Source
+GO:0007156,homophilic cell adhesion via plasma membrane adhesion molecules,8/55,16.35324675,2.73E-05,8,PCDHA10/PCDHA11/PCDHA12/PCDHAC1/PCDHB6/PCDHGA2/PCDHGA7/AMIGO2,GO (Upregulated)
+GO:0098742,cell-cell adhesion via plasma-membrane adhesion molecules,8/55,9.847116325,0.000660109,8,PCDHA10/PCDHA11/PCDHA12/PCDHAC1/PCDHB6/PCDHGA2/PCDHGA7/AMIGO2,GO (Upregulated)
+GO:0060074,synapse maturation,3/55,30.30160428,0.042184166,3,NEURL1/SHANK1/SEZ6L,GO (Upregulated)
+R-HSA-1236394,Signaling by ERBB4,4/64,11.95150862,0.07365643,4,GABRB1/CXCL12/GFAP/APOE,Reactome (Downregulated)
+R-HSA-1251985,Nuclear signaling by ERBB4,3/64,16.24658203,0.07365643,3,CXCL12/GFAP/APOE,Reactome (Downregulated)
+R-HSA-909733,Interferon alpha/beta signaling,4/64,9.002435065,0.07365643,4,IFITM2/IFITM1/OAS1/IFI27,Reactome (Downregulated)
+,,,,,,,
+,,,,,,,
