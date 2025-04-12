@@ -51,9 +51,9 @@ All code, figures, and intermediate files are structured for reproducibility and
 3.  **DEG Identification**
     -   log2FC \> 1 or \< -1, FDR \< 0.05
 4.  **Over-Representation Analysis (ORA)**
-    -   [**GO:BP**](GO:BP){.uri}, **KEGG**, **Reactome** based on significant up/down genes
+    -   **GO:BP**, **KEGG**, **Reactome** based on significant up/down genes
 5.  **Gene Set Enrichment Analysis (GSEA)**
-    -   **Hallmark**, **Reactome**, [**GO:BP**](GO:BP){.uri}, **KEGG**
+    -   **Hallmark**, **Reactome**, **GO:BP,** **KEGG**
     -   Epigenetic and mitochondrial pathway-focused GSEA using MSigDB
 6.  **Transcription Factor (TF) Activity Analysis**
     -   VIPER algorithm via **decoupleR**
