@@ -96,8 +96,8 @@ All code, figures, and intermediate files are structured for reproducibility and
 If you use this code or analysis in your work, please cite this repository and the tools used:\
 **DESeq2**, **clusterProfiler**, **ReactomePA**, **DoRothEA**, **decoupleR**, **EnhancedVolcano**, and **msigdbr**.
 
-![](https://github.com/chingyaousf/Gene-Expression-Analysis-of-Biguanide-Response-in-Glioblastoma-GBM_biguanide_analysis-/blob/main/analysis/qc_plots/MA_plot_big_labels.png?raw=true){width="400"}
+![](https://github.com/chingyaousf/Gene-Expression-Analysis-of-Biguanide-Response-in-Glioblastoma-GBM_biguanide_analysis-/blob/main/analysis/qc_plots/MA_plot_big_labels.png?raw=true){width="300"}
 
-![](https://github.com/chingyaousf/Gene-Expression-Analysis-of-Biguanide-Response-in-Glioblastoma-GBM_biguanide_analysis-/blob/main/analysis/qc_plots/PCA_plot.png?raw=true){width="400"}
+![](https://github.com/chingyaousf/Gene-Expression-Analysis-of-Biguanide-Response-in-Glioblastoma-GBM_biguanide_analysis-/blob/main/analysis/qc_plots/PCA_plot.png?raw=true){width="300"}
 
-![](https://github.com/chingyaousf/Gene-Expression-Analysis-of-Biguanide-Response-in-Glioblastoma-GBM_biguanide_analysis-/blob/main/analysis/qc_plots/sample_distance_heatmap.png?raw=true){width="400"}
+![](https://github.com/chingyaousf/Gene-Expression-Analysis-of-Biguanide-Response-in-Glioblastoma-GBM_biguanide_analysis-/blob/main/analysis/qc_plots/sample_distance_heatmap.png?raw=true){width="300"}
