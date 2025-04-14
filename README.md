@@ -114,10 +114,10 @@ If you use this code or analysis in your work, please cite this repository and t
 
 ![](https://github.com/chingyaousf/Gene-Expression-Analysis-of-Biguanide-Response-in-Glioblastoma-GBM_biguanide_analysis-/blob/main/analysis/enrichment/plots/dotplot_gsea_go.png?raw=true){width="598"}
 
-![](https://github.com/chingyaousf/Gene-Expression-Analysis-of-Biguanide-Response-in-Glioblastoma-GBM_biguanide_analysis-/blob/main/analysis/enrichment/plots/ridgeplot_gsea_go.png?raw=true){width="598"}
+![](https://github.com/chingyaousf/Gene-Expression-Analysis-of-Biguanide-Response-in-Glioblastoma-GBM_biguanide_analysis-/blob/main/analysis/enrichment/plots/ridgeplot_gsea_go.png?raw=true){width="576"}
 
-![](https://github.com/chingyaousf/Gene-Expression-Analysis-of-Biguanide-Response-in-Glioblastoma-GBM_biguanide_analysis-/blob/main/analysis/enrichment/plots/barplot_gsea_hallmark.png?raw=true){width="598"}
+![](https://github.com/chingyaousf/Gene-Expression-Analysis-of-Biguanide-Response-in-Glioblastoma-GBM_biguanide_analysis-/blob/main/analysis/enrichment/plots/barplot_gsea_hallmark.png?raw=true){width="609"}
 
-![](https://github.com/chingyaousf/Gene-Expression-Analysis-of-Biguanide-Response-in-Glioblastoma-GBM_biguanide_analysis-/blob/main/analysis/enrichment/plots/dotplot_gsea_hallmark.png?raw=true){width="598"}
+![](https://github.com/chingyaousf/Gene-Expression-Analysis-of-Biguanide-Response-in-Glioblastoma-GBM_biguanide_analysis-/blob/main/analysis/enrichment/plots/dotplot_gsea_hallmark.png?raw=true){width="609"}
 
-![](https://github.com/chingyaousf/Gene-Expression-Analysis-of-Biguanide-Response-in-Glioblastoma-GBM_biguanide_analysis-/blob/main/analysis/enrichment/plots/ridgeplot_gsea_hallmark_labeled.png?raw=true){width="598"}
+![](https://github.com/chingyaousf/Gene-Expression-Analysis-of-Biguanide-Response-in-Glioblastoma-GBM_biguanide_analysis-/blob/main/analysis/enrichment/plots/ridgeplot_gsea_hallmark_labeled.png?raw=true){width="607"}
