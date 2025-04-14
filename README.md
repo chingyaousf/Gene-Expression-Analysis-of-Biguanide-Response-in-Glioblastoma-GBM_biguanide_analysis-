@@ -51,9 +51,9 @@ All code, figures, and intermediate files are structured for reproducibility and
 3.  **DEG Identification**
     -   log2FC \> 1 or \< -1, FDR \< 0.05
 4.  **Over-Representation Analysis (ORA)**
-    -   **GO:BP**, **KEGG**, **Reactome** based on significant up/down genes
+    -   [**GO:BP**](GO:BP){.uri}, **KEGG**, **Reactome** based on significant up/down genes
 5.  **Gene Set Enrichment Analysis (GSEA)**
-    -   **Hallmark**, **Reactome**, **GO:BP,** **KEGG**
+    -   **Hallmark**, **Reactome**, [**GO:BP**](GO:BP){.uri}**,** **KEGG**
     -   Epigenetic and mitochondrial pathway-focused GSEA using MSigDB
 6.  **Transcription Factor (TF) Activity Analysis**
     -   VIPER algorithm via **decoupleR**
@@ -101,3 +101,21 @@ If you use this code or analysis in your work, please cite this repository and t
 ![](https://github.com/chingyaousf/Gene-Expression-Analysis-of-Biguanide-Response-in-Glioblastoma-GBM_biguanide_analysis-/blob/main/analysis/qc_plots/PCA_plot.png?raw=true){width="300"}
 
 ![](https://github.com/chingyaousf/Gene-Expression-Analysis-of-Biguanide-Response-in-Glioblastoma-GBM_biguanide_analysis-/blob/main/analysis/qc_plots/sample_distance_heatmap.png?raw=true){width="300"}
+
+![](https://github.com/chingyaousf/Gene-Expression-Analysis-of-Biguanide-Response-in-Glioblastoma-GBM_biguanide_analysis-/blob/main/analysis/enrichment/plots/barplot_go_up.png?raw=true)
+
+![](https://github.com/chingyaousf/Gene-Expression-Analysis-of-Biguanide-Response-in-Glioblastoma-GBM_biguanide_analysis-/blob/main/analysis/enrichment/plots/dotplot_go_up.png?raw=true)
+
+![](https://github.com/chingyaousf/Gene-Expression-Analysis-of-Biguanide-Response-in-Glioblastoma-GBM_biguanide_analysis-/blob/main/analysis/enrichment/plots/barplot_reactome_down.png?raw=true)
+
+![](https://github.com/chingyaousf/Gene-Expression-Analysis-of-Biguanide-Response-in-Glioblastoma-GBM_biguanide_analysis-/blob/main/analysis/enrichment/plots/dotplot_reactome_down.png?raw=true)
+
+![](https://github.com/chingyaousf/Gene-Expression-Analysis-of-Biguanide-Response-in-Glioblastoma-GBM_biguanide_analysis-/blob/main/analysis/enrichment/plots/barplot_gsea_go.png?raw=true){width="598"}
+
+![](https://github.com/chingyaousf/Gene-Expression-Analysis-of-Biguanide-Response-in-Glioblastoma-GBM_biguanide_analysis-/blob/main/analysis/enrichment/plots/dotplot_gsea_go.png?raw=true){width="598"}
+
+![](https://github.com/chingyaousf/Gene-Expression-Analysis-of-Biguanide-Response-in-Glioblastoma-GBM_biguanide_analysis-/blob/main/analysis/enrichment/plots/ridgeplot_gsea_go.png?raw=true){width="598"}
+
+![](https://github.com/chingyaousf/Gene-Expression-Analysis-of-Biguanide-Response-in-Glioblastoma-GBM_biguanide_analysis-/blob/main/analysis/enrichment/plots/barplot_gsea_hallmark.png?raw=true){width="598"}
+
+![](https://github.com/chingyaousf/Gene-Expression-Analysis-of-Biguanide-Response-in-Glioblastoma-GBM_biguanide_analysis-/blob/main/analysis/enrichment/plots/ridgeplot_gsea_hallmark_labeled.png?raw=true){width="598"}
