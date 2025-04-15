@@ -133,3 +133,21 @@ If you use this code or analysis in your work, please cite this repository and t
 ![](https://github.com/chingyaousf/Gene-Expression-Analysis-of-Biguanide-Response-in-Glioblastoma-GBM_biguanide_analysis-/blob/main/analysis/enrichment/plots/dotplot_gsea_reactome_all.png?raw=true){width="607"}
 
 ![](https://github.com/chingyaousf/Gene-Expression-Analysis-of-Biguanide-Response-in-Glioblastoma-GBM_biguanide_analysis-/blob/main/analysis/enrichment/plots/ridgeplot_gsea_reactome_all.png?raw=true){width="607"}
+
+![](https://github.com/chingyaousf/Gene-Expression-Analysis-of-Biguanide-Response-in-Glioblastoma-GBM_biguanide_analysis-/blob/main/analysis/enrichment/plots/barplot_gsea_epigenetic.png?raw=true){width="607"}
+
+![](https://github.com/chingyaousf/Gene-Expression-Analysis-of-Biguanide-Response-in-Glioblastoma-GBM_biguanide_analysis-/blob/main/analysis/enrichment/plots/dotplot_gsea_epigenetic.png?raw=true){width="607"}
+
+![](https://github.com/chingyaousf/Gene-Expression-Analysis-of-Biguanide-Response-in-Glioblastoma-GBM_biguanide_analysis-/blob/main/analysis/enrichment/plots/tf_activity_barplot.png?raw=true){width="607"}
+
+![](https://github.com/chingyaousf/Gene-Expression-Analysis-of-Biguanide-Response-in-Glioblastoma-GBM_biguanide_analysis-/blob/main/analysis/enrichment/plots/tf_target_gene_expression_heatmap_CEPBD_REST_NHF4A_unique.png?raw=true){width="607"}
+
+![](https://github.com/chingyaousf/Gene-Expression-Analysis-of-Biguanide-Response-in-Glioblastoma-GBM_biguanide_analysis-/blob/main/analysis/enrichment/plots/tf_target_gene_expression_heatmap_negative_ATF4.png?raw=true){width="607"}
+
+![](https://github.com/chingyaousf/Gene-Expression-Analysis-of-Biguanide-Response-in-Glioblastoma-GBM_biguanide_analysis-/blob/main/analysis/enrichment/plots/tf_target_gene_expression_heatmap_negative_CEPBD.png?raw=true){width="607"}
+
+![](https://github.com/chingyaousf/Gene-Expression-Analysis-of-Biguanide-Response-in-Glioblastoma-GBM_biguanide_analysis-/blob/main/analysis/enrichment/plots/tf_target_gene_expression_heatmap_negative_FOS.png?raw=true){width="607"}
+
+![](https://github.com/chingyaousf/Gene-Expression-Analysis-of-Biguanide-Response-in-Glioblastoma-GBM_biguanide_analysis-/blob/main/analysis/enrichment/plots/tf_target_gene_expression_heatmap_negative_HNF4A.png?raw=true){width="607"}
+
+![](https://github.com/chingyaousf/Gene-Expression-Analysis-of-Biguanide-Response-in-Glioblastoma-GBM_biguanide_analysis-/blob/main/analysis/enrichment/plots/tf_target_gene_expression_heatmap_negative_REST.png?raw=true){width="607"}
