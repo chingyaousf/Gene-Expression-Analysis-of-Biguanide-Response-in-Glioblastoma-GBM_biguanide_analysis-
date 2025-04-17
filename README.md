@@ -138,6 +138,8 @@ If you use this code or analysis in your work, please cite this repository and t
 
 ![](https://github.com/chingyaousf/Gene-Expression-Analysis-of-Biguanide-Response-in-Glioblastoma-GBM_biguanide_analysis-/blob/main/analysis/enrichment/plots/dotplot_gsea_epigenetic.png?raw=true){width="607"}
 
+![](https://github.com/chingyaousf/Gene-Expression-Analysis-of-Biguanide-Response-in-Glioblastoma-GBM_biguanide_analysis-/blob/main/analysis/enrichment/plots/ridgeplot_gsea_epigenetic_labeled.png?raw=true){width="607"}
+
 ![](https://github.com/chingyaousf/Gene-Expression-Analysis-of-Biguanide-Response-in-Glioblastoma-GBM_biguanide_analysis-/blob/main/analysis/enrichment/plots/tf_activity_barplot.png?raw=true){width="607"}
 
 ![](https://github.com/chingyaousf/Gene-Expression-Analysis-of-Biguanide-Response-in-Glioblastoma-GBM_biguanide_analysis-/blob/main/analysis/enrichment/plots/tf_target_gene_expression_heatmap_CEPBD_REST_NHF4A_unique.png?raw=true){width="607"}
@@ -151,3 +153,21 @@ If you use this code or analysis in your work, please cite this repository and t
 ![](https://github.com/chingyaousf/Gene-Expression-Analysis-of-Biguanide-Response-in-Glioblastoma-GBM_biguanide_analysis-/blob/main/analysis/enrichment/plots/tf_target_gene_expression_heatmap_negative_HNF4A.png?raw=true){width="607"}
 
 ![](https://github.com/chingyaousf/Gene-Expression-Analysis-of-Biguanide-Response-in-Glioblastoma-GBM_biguanide_analysis-/blob/main/analysis/enrichment/plots/tf_target_gene_expression_heatmap_negative_REST.png?raw=true){width="607"}
+
+![](https://github.com/chingyaousf/Gene-Expression-Analysis-of-Biguanide-Response-in-Glioblastoma-GBM_biguanide_analysis-/blob/main/analysis/enrichment/plots/heatmap_epigenetic_genes.png?raw=true){width="607"}
+
+![](https://github.com/chingyaousf/Gene-Expression-Analysis-of-Biguanide-Response-in-Glioblastoma-GBM_biguanide_analysis-/blob/main/analysis/enrichment/plots/heatmap_epigenetic_TFs.png?raw=true){width="607"}
+
+![](https://github.com/chingyaousf/Gene-Expression-Analysis-of-Biguanide-Response-in-Glioblastoma-GBM_biguanide_analysis-/blob/main/analysis/enrichment/plots/heatmap_tf_DEGs.png?raw=true){width="607"}
+
+![](https://github.com/chingyaousf/Gene-Expression-Analysis-of-Biguanide-Response-in-Glioblastoma-GBM_biguanide_analysis-/blob/main/analysis/enrichment/plots/heatmap_top50_DEGs_02.png?raw=true){width="607"}
+
+![](https://github.com/chingyaousf/Gene-Expression-Analysis-of-Biguanide-Response-in-Glioblastoma-GBM_biguanide_analysis-/blob/main/analysis/enrichment/plots/volcano_epigenetic_genes_enhanced_02.png?raw=true){width="607"}
+
+![](https://github.com/chingyaousf/Gene-Expression-Analysis-of-Biguanide-Response-in-Glioblastoma-GBM_biguanide_analysis-/blob/main/analysis/enrichment/plots/volcano_epigenetic_TFs_enhanced_02.png?raw=true){width="607"}
+
+![](https://github.com/chingyaousf/Gene-Expression-Analysis-of-Biguanide-Response-in-Glioblastoma-GBM_biguanide_analysis-/blob/main/analysis/enrichment/plots/volcano_epigenetic_genes_enhanced_significant_02.png?raw=true){width="607"}
+
+![](https://github.com/chingyaousf/Gene-Expression-Analysis-of-Biguanide-Response-in-Glioblastoma-GBM_biguanide_analysis-/blob/main/analysis/enrichment/plots/volcano_top50_DEGs_enhanced_02.png?raw=true){width="607"}
+
+![](https://github.com/chingyaousf/Gene-Expression-Analysis-of-Biguanide-Response-in-Glioblastoma-GBM_biguanide_analysis-/blob/main/analysis/enrichment/plots/volcano_tf_DEGs_enhanced_02.png?raw=true){width="607"}
