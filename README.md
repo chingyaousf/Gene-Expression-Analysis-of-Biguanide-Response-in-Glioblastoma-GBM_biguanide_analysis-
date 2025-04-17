@@ -12,37 +12,35 @@ This project presents a comprehensive RNA-seq analysis of glioblastoma (GBM) cel
 
 **The analysis includes:**
 
--   Data preprocessing and normalization using DESeq2\
--   Differential expression analysis to identify DEGs between sensitive and resistant lines\
--   Over-representation analysis (ORA) of up/downregulated genes using <GO:BP>, KEGG, and Reactome pathways\
--   Gene Set Enrichment Analysis (GSEA) with MSigDB Hallmark, Reactome, and mitochondrial/epigenetic terms\
--   Transcription factor activity inference using VIPER + DoRothEA regulons\
--   Expression heatmaps for top DEGs, epigenetic genes, and TF targets\
+-   Data preprocessing and normalization using DESeq2
+-   Differential expression analysis to identify DEGs between sensitive and resistant lines
+-   Over-representation analysis (ORA) of up/downregulated genes using <GO:BP>, KEGG, and Reactome pathways
+-   Gene Set Enrichment Analysis (GSEA) with MSigDB Hallmark, Reactome, and mitochondrial/epigenetic terms
+-   Transcription factor activity inference using VIPER + DoRothEA regulons
+-   Expression heatmaps for top DEGs, epigenetic genes, and TF targets
 -   Volcano plots to visualize gene-level significance and fold change
 
 **The pipeline emphasizes the identification of:**
 
--   Pathways involved in mitochondrial metabolism and OXPHOS\
--   Genes regulating chromatin, methylation, and histone modification\
+-   Pathways involved in mitochondrial metabolism and OXPHOS
+-   Genes regulating chromatin, methylation, and histone modification
 -   Transcription factors with potential regulatory roles in biguanide resistance, such as FOS, HNF4A, and ATF4
 
 All code, figures, and intermediate files are structured for reproducibility and downstream interpretation.
 
 ## Objectives
 
--   Identify DEGs between biguanide-sensitive and resistant glioblastoma lines\
--   Perform enrichment analyses: GO, KEGG, Reactome, Hallmark, and Epigenetic-related pathways\
--   Assess transcription factor activities using DoRothEA and decoupleR\
--   Visualize gene expression and pathway activity via heatmaps, dot plots, ridge plots, and volcano plots\
+-   Identify DEGs between biguanide-sensitive and resistant glioblastoma lines
+-   Perform enrichment analyses: GO, KEGG, Reactome, Hallmark, and Epigenetic-related pathways
+-   Assess transcription factor activities using DoRothEA and decoupleR
+-   Visualize gene expression and pathway activity via heatmaps, dot plots, ridge plots, and volcano plots
 -   Highlight potential biomarkers and regulatory drivers of drug response
 
 ## Dataset
 
 **Raw counts**: Paired-end RNA-seq counts generated using featureCounts
 
-**Samples**:\
-- Sensitive: PDX22, PDX43, PDX59, HK281\
-- Resistant: G83, PDX10
+**Samples**: - Sensitive: PDX22, PDX43, PDX59, HK281 - Resistant: G83, PDX10
 
 ## Methodology
 
@@ -54,9 +52,9 @@ All code, figures, and intermediate files are structured for reproducibility and
 3.  **DEG Identification**
     -   log2FC \> 1 or \< -1, FDR \< 0.05
 4.  **Over-Representation Analysis (ORA)**
-    -   **GO:BP**, **KEGG**, **Reactome** based on significant up/down genes
+    -   [[**GO:BP**](GO:BP){.uri}], **KEGG**, **Reactome** based on significant up/down genes
 5.  **Gene Set Enrichment Analysis (GSEA)**
-    -   **Hallmark**, **Reactome**, **GO:BP,** **KEGG**
+    -   **Hallmark**, **Reactome**, [**GO:BP**](GO:BP){.uri}**,** **KEGG**
     -   Epigenetic and mitochondrial pathway-focused GSEA using MSigDB
 6.  **Transcription Factor (TF) Activity Analysis**
     -   VIPER algorithm via **decoupleR**
@@ -67,8 +65,8 @@ All code, figures, and intermediate files are structured for reproducibility and
 
 ## Key Findings
 
--   Enriched pathways in resistant lines include mitochondrial metabolism, chromatin regulation, and stress-response signaling\
--   TFs such as **HNF4A**, **FOS**, and **ATF4** show distinct regulatory roles between conditions\
+-   Enriched pathways in resistant lines include mitochondrial metabolism, chromatin regulation, and stress-response signaling
+-   TFs such as **HNF4A**, **FOS**, and **ATF4** show distinct regulatory roles between conditions
 -   Epigenetic regulators are significantly enriched in the top GSEA pathways and DE TFs
 
 ## Dependencies
