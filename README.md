@@ -6,23 +6,25 @@
 
 This repository contains an RNA-seq analysis of glioblastoma cell lines to investigate transcriptional differences between biguanide-sensitive and biguanide-resistant models. The study focuses on identifying differentially expressed genes (DEGs), enriched biological pathways, and transcription factor (TF) activities contributing to drug response, with a specific emphasis on mitochondrial metabolism and epigenetic regulation.
 
-### Detailed Description
+## Detailed Description
 
 This project presents a comprehensive RNA-seq analysis of glioblastoma (GBM) cell lines to dissect the molecular mechanisms underlying differential responses to biguanide treatment. Biguanides (e.g., metformin, phenformin) are mitochondrial complex I inhibitors with potential anti-tumor effects, yet the transcriptional programs associated with resistance remain incompletely understood.
 
-The analysis includes:
+**The analysis includes:**
 
--   **Data preprocessing and normalization** using DESeq2\
--   **Differential expression analysis** to identify DEGs between sensitive and resistant lines\
--   **Over-representation analysis (ORA)** of up/downregulated genes using GO:BP, KEGG, and Reactome pathways\
--   **Gene Set Enrichment Analysis (GSEA)** with MSigDB Hallmark, Reactome, and mitochondrial/epigenetic terms\
--   **Transcription factor activity inference** using VIPER + DoRothEA regulons\
--   **Expression heatmaps** for top DEGs, epigenetic genes, and TF targets\
--   **Volcano plots** to visualize gene-level significance and fold change
+-   Data preprocessing and normalization using DESeq2\
+-   Differential expression analysis to identify DEGs between sensitive and resistant lines\
+-   Over-representation analysis (ORA) of up/downregulated genes using <GO:BP>, KEGG, and Reactome pathways\
+-   Gene Set Enrichment Analysis (GSEA) with MSigDB Hallmark, Reactome, and mitochondrial/epigenetic terms\
+-   Transcription factor activity inference using VIPER + DoRothEA regulons\
+-   Expression heatmaps for top DEGs, epigenetic genes, and TF targets\
+-   Volcano plots to visualize gene-level significance and fold change
 
-The pipeline emphasizes the identification of: - Pathways involved in **mitochondrial metabolism and OXPHOS**\
-- Genes regulating **chromatin, methylation, and histone modification**\
-- Transcription factors with potential regulatory roles in biguanide resistance, such as **FOS**, **HNF4A**, and **ATF4**
+**The pipeline emphasizes the identification of:**
+
+-   Pathways involved in mitochondrial metabolism and OXPHOS\
+-   Genes regulating chromatin, methylation, and histone modification\
+-   Transcription factors with potential regulatory roles in biguanide resistance, such as FOS, HNF4A, and ATF4
 
 All code, figures, and intermediate files are structured for reproducibility and downstream interpretation.
 
@@ -30,16 +32,17 @@ All code, figures, and intermediate files are structured for reproducibility and
 
 -   Identify DEGs between biguanide-sensitive and resistant glioblastoma lines\
 -   Perform enrichment analyses: GO, KEGG, Reactome, Hallmark, and Epigenetic-related pathways\
--   Assess transcription factor activities using **DoRothEA** and **decoupleR**\
+-   Assess transcription factor activities using DoRothEA and decoupleR\
 -   Visualize gene expression and pathway activity via heatmaps, dot plots, ridge plots, and volcano plots\
 -   Highlight potential biomarkers and regulatory drivers of drug response
 
 ## Dataset
 
--   Raw counts: Paired-end RNA-seq counts generated using **featureCounts**
--   Samples:
-    -   **Sensitive**: PDX22, PDX43, PDX59, HK281\
-    -   **Resistant**: G83, PDX10
+**Raw counts**: Paired-end RNA-seq counts generated using featureCounts
+
+**Samples**:\
+- Sensitive: PDX22, PDX43, PDX59, HK281\
+- Resistant: G83, PDX10
 
 ## Methodology
 
