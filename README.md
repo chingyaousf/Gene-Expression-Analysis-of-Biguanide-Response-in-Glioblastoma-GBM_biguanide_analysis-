@@ -14,7 +14,7 @@ The analysis includes:
 
 -   **Data preprocessing and normalization** using DESeq2\
 -   **Differential expression analysis** to identify DEGs between sensitive and resistant lines\
--   **Over-representation analysis (ORA)** of up/downregulated genes using <GO:BP>, KEGG, and Reactome pathways\
+-   **Over-representation analysis (ORA)** of up/downregulated genes using GO:BP, KEGG, and Reactome pathways\
 -   **Gene Set Enrichment Analysis (GSEA)** with MSigDB Hallmark, Reactome, and mitochondrial/epigenetic terms\
 -   **Transcription factor activity inference** using VIPER + DoRothEA regulons\
 -   **Expression heatmaps** for top DEGs, epigenetic genes, and TF targets\
@@ -51,9 +51,9 @@ All code, figures, and intermediate files are structured for reproducibility and
 3.  **DEG Identification**
     -   log2FC \> 1 or \< -1, FDR \< 0.05
 4.  **Over-Representation Analysis (ORA)**
-    -   [**GO:BP**](GO:BP){.uri}, **KEGG**, **Reactome** based on significant up/down genes
+    -   **GO:BP**, **KEGG**, **Reactome** based on significant up/down genes
 5.  **Gene Set Enrichment Analysis (GSEA)**
-    -   **Hallmark**, **Reactome**, [**GO:BP**](GO:BP){.uri}**,** **KEGG**
+    -   **Hallmark**, **Reactome**, **GO:BP,** **KEGG**
     -   Epigenetic and mitochondrial pathway-focused GSEA using MSigDB
 6.  **Transcription Factor (TF) Activity Analysis**
     -   VIPER algorithm via **decoupleR**
